@@ -1,6 +1,6 @@
 ---
 title: Blog Posts
-layout: home
+layout: blog
 ---
 
 Welcome to my blog posts!
