@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: page
+layout: base
 ---
 
 Welcome to my homepage! I will create this with more detail later!!
