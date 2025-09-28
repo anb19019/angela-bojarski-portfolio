@@ -1,5 +1,5 @@
 ---
-title: Blog Posts
+title: About Me
 layout: page
 ---
 
