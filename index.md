@@ -31,10 +31,15 @@ Welcome to my personal portfolio! I am a junior majoring in **Computer Science**
 ---
 ## Projects
 - **Survey Report of Certificate Revocation Systems**
+  - Analyzing traditional certificate revocation systems like CRLs and OCSP and their shortcomings 
+  - Outlined the new data structures used in more modern proposals of CRLite, Let’s Revoke, and TinyCR 
 - **Elliptical Orbit Animation**
+  - Analyzed factors behind evolution of space technology and coded an elliptical orbit animation in Java Script. 
 - **Breach Bot and CyHelp**
-- **Personality Quiz**
-- **Activist Website**
+  - Created a chat-bot in Python, teaching people about the CIA Triad and cybersecurity breaches.   
+- **Activist Website and Personality Quiz**
+  - Participated in a summer program that introduced HTML, CSS, Java Script through web development. 
+
 
 ---
 ## Activities
