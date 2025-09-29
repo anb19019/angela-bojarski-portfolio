@@ -14,9 +14,7 @@ Welcome to my personal portfolio! I am a junior majoring in **Computer Science**
 **Programming Languages**: Python, HTML, CSS, JavaScript, YAML, Bash Scripting, C, C++, RISC-V  
 
 **Computer**: Linux OS, Windows OS, RHEL, VMware, xCAT, Nessus, Kenna, Bitbucket, Ansible, Jira, GitHub, Microsoft 365, Google Workspace  
-
 **Certifications**:  GIAC Foundational Cybersecurity Technologies (GFACT), GIAC Security Essentials Certification (GSEC), GIAC Cloud Security Essentials (GCLD)  
-
 
 ---
 
@@ -39,7 +37,6 @@ Welcome to my personal portfolio! I am a junior majoring in **Computer Science**
   - Created a chat-bot in Python, teaching people about the CIA Triad and cybersecurity breaches.   
 - **Activist Website and Personality Quiz**
   - Participated in a summer program that introduced HTML, CSS, Java Script through web development. 
-
 
 ---
 ## Activities

@@ -7,7 +7,7 @@ title: Community Outreach
 I believe in the power of civic engagement, STEM education, and youth leadership to shape a more inclusive and innovative future. Here is a list of my most active commmunity outreach programs that I am a lead or participant in.
 
 ## UConn Engineering Ambassadors
-**Role**: Vice President of Off-Campus
+**Role**: Vice President of Off-Campus Events
 - Delivered STEM presentations to K–12 students to spark interest in engineering.  
 - Attended weekly meetings to refine public speaking and presentation skills.  
 - Volunteered at Open House and STEM events to encourage high school students to pursue engineering majors.
