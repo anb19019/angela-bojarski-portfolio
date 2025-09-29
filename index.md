@@ -11,9 +11,12 @@ Welcome to my personal portfolio! I am a junior majoring in **Computer Science**
 
 ## Skills
 
-**Programming Languages**: Python, HTML, CSS, JavaScript, YAML, Bash Scripting, C, C++, RISC-V
-**Computer**: Linux OS, Windows OS, RHEL, VMware, xCAT, Nessus, Kenna, Bitbucket, Ansible, Jira, GitHub, Microsoft 365, Google Workspace
-**Certifications**:  GIAC Foundational Cybersecurity Technologies (GFACT), GIAC Security Essentials Certification (GSEC), GIAC Cloud Security Essentials (GCLD)
+**Programming Languages**: Python, HTML, CSS, JavaScript, YAML, Bash Scripting, C, C++, RISC-V  
+
+**Computer**: Linux OS, Windows OS, RHEL, VMware, xCAT, Nessus, Kenna, Bitbucket, Ansible, Jira, GitHub, Microsoft 365, Google Workspace  
+
+**Certifications**:  GIAC Foundational Cybersecurity Technologies (GFACT), GIAC Security Essentials Certification (GSEC), GIAC Cloud Security Essentials (GCLD)  
+
 
 ---
 
